@@ -1,0 +1,61 @@
+.navbar {
+    position: relative;
+    float: left;
+    height: 100vh;
+    width: 200px;
+    background-color: #404040;
+}
+
+    .navbar .logo-box {
+        display: flex;
+        align-items: center;
+        padding-left: 24px;
+        width: calc(100% - 24px);
+        height: 60px;
+        cursor: pointer;
+    }
+
+        .navbar .logo-box .toggle-icon {
+            background: url('../../assets/img/Sprites.64af8f61.svg') no-repeat -428px -92px;
+            width: 16px;
+            height: 16px;
+        }
+
+        .navbar .logo-box .amis-logo {
+            margin-left: 16px;
+            height: 40px;
+            width: calc(100% - 27px);
+            background: url('../../assets/img/Logo_Module_TiengViet_White.66947422.svg') no-repeat;
+            background-size: contain;
+        }
+
+    .navbar .navbar-content{
+        width: 100%;
+    }
+
+        .navbar .navbar-content .item{
+            display: flex;
+            height: 44px;
+            width: 100%;
+            align-items: center;
+            cursor: pointer;
+            border: none;
+            outline: none;
+            background-color: #404040;
+        }
+
+        .navbar .navbar-content .item:hover{
+            background-color: #595959;
+        }
+
+            .navbar .navbar-content .item .item-icon {
+                height: 20px;
+                width: 20px;
+                margin-left: 16px;
+                background-repeat: no-repeat;
+            }
+
+            .navbar .navbar-content .item .item-text {
+                margin-left: 16px;
+                color: #ffffff;
+            }

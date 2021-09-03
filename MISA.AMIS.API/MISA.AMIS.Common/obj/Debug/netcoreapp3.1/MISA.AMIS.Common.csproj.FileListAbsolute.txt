@@ -1,0 +1,22 @@
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.deps.json
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.dll
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.pdb
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.csprojAssemblyReference.cache
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.Properties.Resources.resources
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.csproj.GenerateResource.cache
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.AssemblyInfoInputs.cache
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.AssemblyInfo.cs
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.csproj.CoreCompileInputs.cache
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.dll
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.pdb
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.deps.json
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.dll
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.pdb
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.csprojAssemblyReference.cache
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.Properties.Resources.resources
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.csproj.GenerateResource.cache
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.AssemblyInfoInputs.cache
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.AssemblyInfo.cs
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.csproj.CoreCompileInputs.cache
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.dll
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.Common\obj\Debug\netcoreapp3.1\MISA.AMIS.Common.pdb

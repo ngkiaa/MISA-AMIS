@@ -1,0 +1,173 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #000000;
+    opacity: 0.3;
+}
+
+.dialog {
+    position: fixed;
+    left: calc(50vw - 400px);
+    top: 80px;
+    width: 1000px;
+    background-color: white;
+}
+
+    .dialog .dialog-header {
+        display: flex;
+        height: 60px;
+    }
+
+        .dialog .dialog-header .dialog-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+
+        .dialog .dialog-header .checkbox-container{
+            color: #808080;
+            margin-top: 8px;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            margin-right: 16px;
+        }
+
+            .dialog .dialog-header .checkbox-container .checkbox{
+                width: 20px;
+                height: 20px;
+                margin-right: 8px;
+            }
+
+            .dialog .dialog-content {
+                padding: 0 20px 0 20px;
+            }
+    
+                .dialog .dialog-content .top-content {
+                    display: flex;
+                }
+    
+                    .dialog .dialog-content .top-content .topleft-content {
+                        margin-right: 20px;
+                    }
+    
+        .text-field {
+            margin-top: 8px;
+            margin-bottom: 16px;
+            height: 34px;
+            width: 454px;
+            outline: none;
+            border: 1px solid #bbbbbb;
+            padding-left: 12px;
+            font-size: 16px;
+            border-radius: 2px;
+        }
+    
+            .text-field:focus {
+                border-color: #019160;
+            }
+        
+        .select-field {
+            margin-top: 8px;
+            margin-bottom: 16px;
+            height: 38px;
+            width: 470px;
+            outline: none;
+            border: 1px solid #bbbbbb;
+            padding-left: 12px;
+            font-size: 16px;
+        }
+    
+            .select-field:focus {
+                border-color: #019160;
+            }
+    
+                .dialog .dialog-content .bottom-content .navigator {
+                    display: flex;
+                }
+    
+                .dialog .dialog-content .bottom-content .navigator .btn-navigate {
+                    margin-right: 4px;
+                    padding: 8px;
+                    border: 1px solid #bbbbbb;
+                    cursor: pointer;
+                    background-color: #ffffff;
+                    outline: none;
+                    border-bottom: none;
+                    height: 32px;
+                    margin-top: 8px;
+                    font-size: 14px;
+                }
+    
+                    .dialog .dialog-content .bottom-content .navigator .btn-navigate:hover {
+                        background-color: #e9ebee;
+                    }
+    
+                .isChosen{
+                    background-color: #99d6ff !important;
+                    height: 40px !important;
+                    margin-top: 0px !important;
+                }
+    
+                .dialog .dialog-content .bottom-content .information-field {
+                    height: 200px;
+                    border: 1px solid #bbbbbb;
+                    padding: 12px;
+                    margin-bottom: 32px;
+                }
+    
+                    .dialog .dialog-content .bottom-content .information-field table {
+                        width: 100%;
+                        border-collapse: collapse;
+                    }
+    
+                    .dialog .dialog-content .bottom-content .information-field table th {
+                        border: 1px solid #bbbbbb;
+                        border-top: none;
+                        text-align: left;
+                        height: 40px;
+                        padding-left: 12px;
+                        background-color: #eeeeee;
+                    }
+    
+                    .dialog .dialog-content .bottom-content .information-field table td {
+                        border: 1px solid #e5e5e5;
+                        border-top: none;
+                        text-align: left;
+                        height: 44px;
+                        padding-left: 12px;
+                    }
+    
+                    .dialog .dialog-content .bottom-content .information-field table tr {
+                        background-color: #fafafa;
+                    }
+    
+                    .table-input {
+                        width: calc(100% - 26px);
+                        height: 32px;
+                        border: 1px solid #e5e5e5;
+                        outline: none;
+                        padding-left: 12px;
+                        font-size: 16px;
+                    }
+    
+                        .table-input:focus {
+                            border-color: #019160;
+                        }
+    
+                        .dialog .underline {
+                            border-top: 1px solid #e5e5e5;
+                            margin: 0 20px 0 20px;
+                        }
+                
+                        .dialog .dialog-footer {
+                            margin: 0 20px 0 20px;
+                            height: 80px;
+                            display: flex;
+                            align-items: center;
+                        }

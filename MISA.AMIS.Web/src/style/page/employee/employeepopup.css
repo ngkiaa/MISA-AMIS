@@ -1,0 +1,41 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #000000;
+    opacity: 0.3;
+}
+
+.pop-up-main {
+    width: 500px;
+    background-color: white;
+    position: fixed;
+    left: calc(50vw - 250px);
+    top: 100px;
+    border-radius: 4px;
+    padding: 40px 40px 12px 40px;
+}
+
+.pop-up-main .pop-up-content {
+    display: flex;
+}
+
+.pop-up-main .pop-up-content .alert{
+    margin: 8px 0 0 16px;
+    font-size: 16px;
+    color: #808080;
+    width: 100%;
+}
+
+.line {
+    border-top: 1px solid #808080;
+    margin-top: 40px;
+}
+
+.pop-up-main .pop-up-footer {
+    display: flex;
+    align-items: center;
+    height: 80px;
+}

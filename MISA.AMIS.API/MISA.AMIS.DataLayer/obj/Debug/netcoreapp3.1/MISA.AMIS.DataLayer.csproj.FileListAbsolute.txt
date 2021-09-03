@@ -1,0 +1,24 @@
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.dll
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.AssemblyInfoInputs.cache
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.AssemblyInfo.cs
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.csprojAssemblyReference.cache
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.deps.json
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.dll
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.pdb
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.pdb
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.csproj.CopyComplete
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.dll
+C:\Users\vietn\Desktop\New folder\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.pdb
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.deps.json
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.dll
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.pdb
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.dll
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\bin\Debug\netcoreapp3.1\MISA.AMIS.Common.pdb
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.csprojAssemblyReference.cache
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.AssemblyInfoInputs.cache
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.AssemblyInfo.cs
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.csproj.CopyComplete
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.dll
+C:\Users\vietn\Desktop\MISA.AMIS\MISA.AMIS.API\MISA.AMIS.DataLayer\obj\Debug\netcoreapp3.1\MISA.AMIS.DataLayer.pdb
